@@ -1,3 +1,4 @@
+
 ## MealsApp
 
 A complete react native meals app with state management using redux toolkits
@@ -6,11 +7,11 @@ A complete react native meals app with state management using redux toolkits
 
 ## iOS simulator
 
-<img src="assets/demo/screenshots/1.png" alt="1" width="300" height="500"/> <img src="assets/demo/screenshots/2.png" alt="2" width="300" height="500"/> <img src="assets/demo/screenshots/3.png" alt="3" width="300" height="500"/> <img src="assets/demo/screenshots/4.png" alt="4" width="300" height="500"/> <img src="assets/demo/screenshots/5.png" alt="5" width="300" height="500"/>
+<img src="assets/demo/screenshots/1.png" alt="1" width="300" height="500" style="margin: 10px;"/> <img src="assets/demo/screenshots/2.png" alt="2" width="300" height="500" style="margin: 10px;"/> <img src="assets/demo/screenshots/3.png" alt="3" width="300" height="500" style="margin: 10px;"/> <img src="assets/demo/screenshots/4.png" alt="4" width="300" height="500" style="margin: 10px;"/> <img src="assets/demo/screenshots/5.png" alt="5" width="300" height="500" style="margin: 10px;"/>
 
 ## Android emulator screenshots
 
-<img src="assets/demo/screenshots/android/1.png" alt="1" width="300" height="500"/> <img src="assets/demo/screenshots/android/2.png" alt="2" width="300" height="500"/> <img src="assets/demo/screenshots/android/3.png" alt="3" width="300" height="500"/> <img src="assets/demo/screenshots/android/4.png" alt="4" width="300" height="500"/> <img src="assets/demo/screenshots/android/5.png" alt="5" width="300" height="500"/> <img src="assets/demo/screenshots/android/6.png" alt="6" width="300" height="500"/>
+<img src="assets/demo/screenshots/android/1.png" alt="1" width="300" height="500" style="margin: 10px;"/> <img src="assets/demo/screenshots/android/2.png" alt="2" width="300" height="500" style="margin: 10px;"/> <img src="assets/demo/screenshots/android/3.png" alt="3" width="300" height="500" style="margin: 10px;"/> <img src="assets/demo/screenshots/android/4.png" alt="4" width="300" height="500" style="margin: 10px;"/> <img src="assets/demo/screenshots/android/5.png" alt="5" width="300" height="500" style="margin: 10px;"/> <img src="assets/demo/screenshots/android/6.png" alt="6" width="300" height="500" style="margin: 10px;"/>
 
 ## Demo Videos
 
